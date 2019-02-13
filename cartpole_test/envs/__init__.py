@@ -1,0 +1,6 @@
+from cartpole_test.envs.testEnvm2l05 import TestCartPoleEnvm2l05
+from cartpole_test.envs.testEnvm4l05 import TestCartPoleEnvm4l05
+from cartpole_test.envs.testEnvm2l15 import TestCartPoleEnvm2l15
+from cartpole_test.envs.testEnvm4l15 import TestCartPoleEnvm4l15
+from cartpole_test.envs.testEnvm2l25 import TestCartPoleEnvm2l25
+from cartpole_test.envs.testEnvm4l25 import TestCartPoleEnvm4l25
